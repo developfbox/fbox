@@ -2,7 +2,7 @@
 lock '3.6.1'
 
 set :application, 'fboxdeveloping'
-set :repo_url, 'git@github.com:developfbox/fbox.git'
+set :repo_url, 'https://github.com/developfbox/fbox.git'
 
 # Default branch is :master
 # ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
